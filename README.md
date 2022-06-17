@@ -1,4 +1,3 @@
-\DeclareMathSizes{12}{17.28}{9}{7}
 # math-lab
 This repo has the aim of implementate useful math tools for academic porposes in Electrical Engineering course.
 
@@ -20,3 +19,5 @@ $k{\nabla{u}} = \frac{\partial u}{\partial t}$
 $a^{2}\nabla^{2}u = \frac{\partial^{2}u}{\partial t^{2}}$
 \
 $\nabla^{2}u = 0$
+
+<img src="https://render.githubusercontent.com/render/math?math=e%5E%7Bi \pi} = -1">
