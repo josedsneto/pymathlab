@@ -14,8 +14,8 @@ The dev team has a unique task: bring happiness to electrical engineering studen
 
 Implementate solutions for classical PDE's - Heat, Wave and Laplace's equations
 
-# $k{\nabla{u}} = \frac{\partial u}{\partial t}$
+\large{$k{\nabla{u}} = \frac{\partial u}{\partial t}$}
 \
-# $a^{2}\nabla^{2}u = \frac{\partial^{2}u}{\partial t^{2}}$
+\large{$a^{2}\nabla^{2}u = \frac{\partial^{2}u}{\partial t^{2}}$}
 \
-# $\nabla^{2}u = 0$
+\large{$\nabla^{2}u = 0$}
