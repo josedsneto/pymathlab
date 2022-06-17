@@ -12,7 +12,7 @@ The dev team has a unique task: bring happiness to electrical engineering studen
 
 ## Current work
 
-Implementate solutions for classical PDE's - Heat, Wave and Laplace's equations
+To implement solutions for classical PDE's - Heat, Wave and Laplace's equations
 
 $k{\nabla{u}} = \frac{\partial u}{\partial t}$
 \
