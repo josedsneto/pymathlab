@@ -4,7 +4,7 @@ This repo has the aim of implementate useful math tools for academic porposes in
 The dev team has a unique task: bring happiness to electrical engineering students by applying the viewd class tools on computers.
 
 # Objective:
-•Avoid boring on hand math problems
+•Avoid boring on hand math problems \t
 •Achieve a better comprehension about complex problems
 •Improve programming skills and study group's workflow
 
