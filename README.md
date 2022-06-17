@@ -1,3 +1,4 @@
+\DeclareMathSizes{12}{17.28}{9}{7}
 # math-lab
 This repo has the aim of implementate useful math tools for academic porposes in Electrical Engineering course.
 
@@ -14,8 +15,8 @@ The dev team has a unique task: bring happiness to electrical engineering studen
 
 Implementate solutions for classical PDE's - Heat, Wave and Laplace's equations
 
-\large{$k{\nabla{u}} = \frac{\partial u}{\partial t}$}
+$k{\nabla{u}} = \frac{\partial u}{\partial t}$
 \
-\large{$a^{2}\nabla^{2}u = \frac{\partial^{2}u}{\partial t^{2}}$}
+$a^{2}\nabla^{2}u = \frac{\partial^{2}u}{\partial t^{2}}$
 \
-\large{$\nabla^{2}u = 0$}
+$\nabla^{2}u = 0$
