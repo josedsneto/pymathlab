@@ -1,21 +1,25 @@
 # math-lab
-This repo has the aim of implementate useful math tools for academic porposes in Electrical Engineering course.
-
-The dev team has a unique task: bring happiness to electrical engineering students by applying the viewd class tools on computers.
+This project has some projects and examples about subjects seen in classroom
+of Electrical Engineering in the Federal University of Pará
 
 # Objective:
-•Avoid boring on hand math problems
+•Complement disciplines theoretical knowledge
 \
-•Achieve a better comprehension about complex problems
+•Achieve a better comprehension about complex problems and develop improve
+critical thinking
 \
-•Improve programming skills and study group's workflow
+•Enhance python programming skills
 
-## Current work
+## Modules
 
-To implement solutions for classical PDE's - Heat, Wave and Laplace's equations
+### Basics
+Numerical Calculus \
+Probability and Statistics \
+Special Functions \
+Electromagnetics 2 \
+Stochastics Processes
 
-$k{\nabla{u}} = \frac{\partial u}{\partial t}$
-\
-$a^{2}\nabla^{2}u = \frac{\partial^{2}u}{\partial t^{2}}$
-\
-$\nabla^{2}u = 0$
+### Specific:
+Electrical Circuits 2 \
+Analogic Electronics 1 \
+Control Systems 1
