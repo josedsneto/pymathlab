@@ -1,4 +1,4 @@
-# math-lab
+# pymathlab
 This project has some projects and examples about subjects seen in classroom
 of Electrical Engineering in the Federal University of Pará
 
@@ -19,7 +19,7 @@ Special Functions \
 Electromagnetics 2 \
 Stochastics Processes
 
-### Specific:
+### Specific
 Electrical Circuits 2 \
 Analogic Electronics 1 \
 Control Systems 1
