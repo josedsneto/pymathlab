@@ -5,7 +5,7 @@ of Electrical Engineering in the Federal University of Pará
 # Objective:
 •Complement disciplines theoretical knowledge
 \
-•Achieve a better comprehension about complex problems and develop improve
+•Achieve a better comprehension about complex problems and improve
 critical thinking
 \
 •Enhance python programming skills
